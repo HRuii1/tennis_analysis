@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>synthetic1321_jpg.rf.6bfc8741da3fa3abc3e83df9fdbcc096.jpg</filename>
+	<path>synthetic1321_jpg.rf.6bfc8741da3fa3abc3e83df9fdbcc096.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tennis ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>566</xmin>
+			<xmax>584</xmax>
+			<ymin>236</ymin>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>synframe549_jpg.rf.8a292ff2f572a6b1df0bffc2e011b6c6.jpg</filename>
+	<path>synframe549_jpg.rf.8a292ff2f572a6b1df0bffc2e011b6c6.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tennis ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>662</xmin>
+			<xmax>669</xmax>
+			<ymin>31</ymin>
+			<ymax>39</ymax>
+		</bndbox>
+	</object>
+</annotation>

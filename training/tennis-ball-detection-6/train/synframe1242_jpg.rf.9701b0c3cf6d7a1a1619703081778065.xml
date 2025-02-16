@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>synframe1242_jpg.rf.9701b0c3cf6d7a1a1619703081778065.jpg</filename>
+	<path>synframe1242_jpg.rf.9701b0c3cf6d7a1a1619703081778065.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
