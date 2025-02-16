@@ -5,6 +5,8 @@ __pycache__/
 myenv/
 venv/
 models/
+*.pt
+*.pth
 input_videos/
 output_videos/
 *.mp4
